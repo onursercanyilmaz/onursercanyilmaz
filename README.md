@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin and Java programming languages**
 
-- 👨‍💻 All of my projects are available at [onursercanyilmaz.myportfolio.com](onursercanyilmaz.myportfolio.com)
+- 👨‍💻 All of my projects are available at [https://onursercanyilmaz.myportfolio.com](onursercanyilmaz.myportfolio.com)
 
 - 💬 Ask me about **Android or Windows Platform Apps**
 
