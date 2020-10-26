@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onursercanyilmaz" alt="onursercanyilmaz" /> </p>
 
 - 🌱 I’m currently learning **Kotlin and Java programming languages**
-- 👨‍💻 All of my projects are available at "**onursercanyilmaz.myportfolio.com**"
+- 👨‍💻 All of my projects are available at "**https://sites.google.com/view/onursercanyilmaz**"
 
 - 💬 Ask me about **Android or Windows Platform Apps**
 
