@@ -15,7 +15,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onursercanyilmaz&show_icons=true" alt="onursercanyilmaz" /></p>
 
 <p align="center">
-<a href="https://twitter.com/onursercanylmaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="onursercanylmaz" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/osy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="osy" height="30" width="30" /></a>
-<a href="https://kaggle.com/onursercanyilmaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="onursercanyilmaz" height="30" width="30" /></a>
+
+<a href="https://linkedin.com/in/osy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="osy" height="30" width="30" /></a>
+<a href="https://kaggle.com/onursercanyilmaz" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="onursercanyilmaz" height="30" width="30" /></a>
 </p>
