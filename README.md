@@ -29,7 +29,7 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=onursercanyilmaz&show_icons=true&theme=algolia" ;"alt="onursercanyilmaz" /></p>
 <p align="center">
 
- ![snake svg](https://github.com/onursercanyilmaz/onursercanyilmaz/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
