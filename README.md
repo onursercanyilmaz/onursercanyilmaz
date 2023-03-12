@@ -9,10 +9,6 @@
 <p> <img src="https://komarev.com/ghpvc/?username=onursercanyilmaz" alt="onursercanyilmaz" /> </p>
 </div>
 
-
-- 👨‍💻 All of my projects are available at "**https://sites.google.com/view/onursercanyilmaz**"
-
-- 📫 Contact **onursercanyilmaz@gmail.com**
 </p>
 
 
