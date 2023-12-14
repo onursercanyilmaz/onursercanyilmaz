@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Onur Sercan</h1>
-<h3 align="center">A passionate software engineering student from Turkey</h3>
+<h3 align="center">Software engineer from Turkey</h3>
 
 
 <div align="center">
