@@ -84,12 +84,12 @@ All my indie products live under **[weboneapps.com](https://www.weboneapps.com)*
 
 | App | What it does | Stack | Links |
 |-----|--------------|-------|-------|
-| 🌸 **Flora** | AI-powered flashcard app for language learning. Bulk word upload, memorization flow, subscription billing via Polar.sh | Next.js, Firebase, AI APIs, Polar.sh | [Live App](https://flora.weboneapps.space) |
-| 📅 **Quical** | Snap or paste text → AI converts it to Google Calendar / iCal `.ics` events | Next.js, AI APIs, TypeScript | [Live App](https://quical.weboneapps.space) · [Repo](https://github.com/onursercanyilmaz/quical) |
-| 🥗 **Rephliz** | Nutrition tracker by food groups (dairy, grains, fruits, protein, fats) with daily limits | Next.js, Firebase | [Live App](https://rephliz.weboneapps.space) |
-| ⚽ **GameDay** | Sports fixture & live score tracker — follow matches, add games to Google / Apple Calendar | Next.js, REST APIs | [Live App](https://gameday.weboneapps.space) |
-| 🏔️ **Run to the Hills** | Trail running & hiking companion — routes, tracking, task flows | TypeScript, React, Firebase, FluentUI | [Live App](https://runtothehills.weboneapps.space) · [Repo](https://github.com/onursercanyilmaz/runtothehills) |
-| 🌍 **Depremler** | Earthquake statistics for Türkiye by region & time period | TypeScript, Next.js | [Live App](https://depremler.weboneapps.space) · [Repo](https://github.com/onursercanyilmaz/depremler) |
+| 🌸 **Flora** | AI-powered flashcard app for language learning. Bulk word upload, memorization flow, subscription billing via Polar.sh | Next.js, Firebase, AI APIs, Polar.sh | [Live App](https://flora.weboneapps.com) |
+| 📅 **Quical** | Snap or paste text → AI converts it to Google Calendar / iCal `.ics` events | Next.js, AI APIs, TypeScript | [Live App](https://quical.weboneapps.com) · [Repo](https://github.com/onursercanyilmaz/quical) |
+| 🥗 **Rephliz** | Nutrition tracker by food groups (dairy, grains, fruits, protein, fats) with daily limits | Next.js, Firebase | [Live App](https://rephliz.weboneapps.com) |
+| ⚽ **GameDay** | Sports fixture & live score tracker — follow matches, add games to Google / Apple Calendar | Next.js, REST APIs | [Live App](https://gameday.weboneapps.com) |
+| 🏔️ **Run to the Hills** | Trail running & hiking companion — routes, tracking, task flows | TypeScript, React, Firebase, FluentUI | [Live App](https://runtothehills.weboneapps.com) · [Repo](https://github.com/onursercanyilmaz/runtothehills) |
+| 🌍 **Depremler** | Earthquake statistics for Türkiye by region & time period | TypeScript, Next.js | [Live App](https://depremler.weboneapps.com) · [Repo](https://github.com/onursercanyilmaz/depremler) |
 | 🤖 **LogFinder** | BYOK AI-chat powered log finder & analyzer | TypeScript | [Repo](https://github.com/onursercanyilmaz/LogFinder) |
 | 💲 **Financial Prediction** | Price prediction with Python & ML (BTC, Netflix, USD, Gold) — ⭐ most-starred repo | Python, ML, Jupyter | [Repo](https://github.com/onursercanyilmaz/Financial_Prediction_Analyze) |
 
